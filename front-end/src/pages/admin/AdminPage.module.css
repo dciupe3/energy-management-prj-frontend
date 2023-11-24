@@ -1,0 +1,15 @@
+.bg {
+    background-image: url(../../images/bg1.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+    position: fixed;
+    display: flex;
+    right: 0px;
+    left: 0px;
+    flex-direction: column;
+}
+
+.h1_home {
+    color: rgba(255, 255, 255, 0.509);
+}

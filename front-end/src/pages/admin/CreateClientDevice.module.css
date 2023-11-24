@@ -1,0 +1,17 @@
+/* Mini.css */
+.mini {
+    padding: 1rem;
+    text-align: center;
+}
+
+.mini section {
+    background-color: #f2f2f2;
+    border-radius: 8px;
+    padding: 2rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.mini h1 {
+    color: #333;
+    margin-bottom: 2rem;
+}
